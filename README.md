@@ -5,7 +5,7 @@
 
 <p align="left" margin="10px"> <img src="https://komarev.com/ghpvc/?username=szafter12&label=Profile%20views&color=0e75b6&style=flat" alt="szafter12" /> </p>
 
-- 🔭 I’m currently study on javascript
+- 🔭 I’m currently learning javascript
 
 - 👨‍💻 All of my projects are available at [https://github.com/Szafter12](https://github.com/Szafter12)
 
