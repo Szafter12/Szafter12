@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 # 💫 About Me:
-I specialize in crafting sleek user interfaces and seamless<br>web experiences. Let's create something amazing together!<br><br>🌱 I’m currently learning javascript<br><br>👨‍💻 All of my projects are available at https://github.com/Szafter12?tab=repositories<br><br>📫 How to reach me jakubpachut@gmail.com
+I specialize in creating sleek user interfaces and seamless<br>web experiences. Let's create something amazing together!<br><br>🌱 I’m currently learning javascript<br><br>👨‍💻 All of my projects are available at https://github.com/Szafter12?tab=repositories<br><br>📫 How to reach me jakubpachut@gmail.com
 
 
 ## 🌐 Socials:
