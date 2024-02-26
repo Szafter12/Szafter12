@@ -3,21 +3,19 @@
 
 <img align="right" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<p align="left" margin="10"> <img src="https://komarev.com/ghpvc/?username=szafter12&label=Profile%20views&color=0e75b6&style=flat" alt="szafter12" /> </p>
-
-- 🔭 I’m currently learning javascript
-
-- 👨‍💻 All of my projects are available at [https://github.com/Szafter12](https://github.com/Szafter12)
-
-- 📫 How to reach me **jakubpachut@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a text-decoration="none" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a> <a text-decoration="none" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a> <a text-decoration="none" href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40"/> </a> <a text-decoration="none" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a> <a text-decoration="none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a> <a text-decoration="none" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a> <a text-decoration="none" href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/> </a> <a text-decoration="none" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> </a>
-
-<p margin="20px">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=szafter12&show_icons=true&locale=en" /></p>
-
-<p margin="20px"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=szafter12&" /></p>
-
-<p margin="20px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szafter12&show_icons=true&locale=en&layout=compact" /></p>
+# 💫 About Me:
+I specialize in crafting sleek user interfaces and seamless<br>web experiences. Let's create something amazing together!<br><br>🌱 I’m currently learning javascript<br><br>👨‍💻 All of my projects are available at https://github.com/Szafter12?tab=repositories<br><br>📫 How to reach me jakubpachut@gmail.com
 
 
+## 🌐 Socials:
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jakub-Pachut) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=szafter12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=szafter12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=szafter12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=szafter12&icon=0&color=0)](https://visitcount.itsvg.in)
