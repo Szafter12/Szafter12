@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jakub Pachut</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<img align="right" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+
 
 # 💫 About Me:
 I specialize in create sleek user interfaces and seamless<br>web experiences. Let's create something amazing together!<br><br>🌱 I’m currently learning javascript<br><br>👨‍💻 All of my projects are available at https://github.com/Szafter12?tab=repositories<br><br>📫 How to reach me jakubpachut@gmail.com
+<img align="right" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 
 ## 🌐 Socials:
