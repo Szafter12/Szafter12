@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakub Pachut</h1>
+<h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <img align="right" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
