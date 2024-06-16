@@ -3,8 +3,8 @@
 <br>
 <img align="right" width="100%" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <br>
+
 # 💫 About Me:
-<br>
 I am an experienced Front-end Developer specializing in building modern websites and web applications. I have extensive experience in creating user interfaces (UI) that are both aesthetically pleasing and functional.
 <br><br>
 My skills:
