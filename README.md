@@ -43,7 +43,7 @@ My strengths:
 <br><br>
 
 What I can do for you:
-<br><br>
+<br>
 <ul>
   <li>I can design and build a modern website or web application for you that will meet your needs and expectations.</li>
   <li>I can help you optimize your existing website for loading speed and performance.</li>
