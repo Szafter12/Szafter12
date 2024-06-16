@@ -5,8 +5,7 @@
 
 # 💫 About Me:
 I am an experienced Front-end Developer specializing in building modern websites and web applications. I have extensive experience in creating user interfaces (UI) that are both aesthetically pleasing and functional.
-<br>
-Let's create something amazing together!
+
 <br><br>
 🌱 I’m currently learning javascript
 <br><br>
