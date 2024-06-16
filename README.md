@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 I am an experienced Front-end Developer specializing in building modern websites and web applications. I have extensive experience in creating user interfaces (UI) that are both aesthetically pleasing and functional.
-<br>
+<br><br>
 Let's create something amazing together!
 <br><br>
 🌱 I’m currently learning javascript
@@ -21,7 +21,7 @@ Let's create something amazing together!
 # More Info About Me:
 
 My skills:
-<br>
+<br><br>
 <ul>
   <li>Creating responsive and flexible websites using HTML, CSS(SCSS, tailwind.css), and JavaScript(react.js, next.js, vite)</li>
   <li>Designing and implementing interactive UI elements such as menus, forms, and animations</li>
@@ -33,7 +33,7 @@ My skills:
 </ul>
 <br><br>
 My strengths:
-<br>
+<br><br>
 <ul>
   <li>Creativity and attention to detail</li>
   <li>Ability to think analytically and solve problems</li>
@@ -42,7 +42,7 @@ My strengths:
 </ul>
 <br><br>
 What I can do for you:
-<br>
+<br><br>
 <ul>
   <li>I can design and build a modern website or web application for you that will meet your needs and expectations.</li>
   <li>I can help you optimize your existing website for loading speed and performance.</li>
