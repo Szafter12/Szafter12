@@ -5,7 +5,7 @@
 I am a frontend developer specializing in creating websites for local businesses in my city. My goal is to deliver modern, responsive, and functional solutions that help small and medium-sized enterprises stand out online and effectively reach their customers. My projects are characterized by aesthetics, usability, and adherence to the latest web design trends.
 
 <br><br>
-🌱 I’m currently learning: react
+🌱 I’m currently learning: React
 <br><br>
 👨‍💻 All of my projects are available at: https://github.com/Szafter12?tab=repositories
 <br><br>
