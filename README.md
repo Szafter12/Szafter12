@@ -3,6 +3,39 @@
 
 # 💫 About Me:
 I am a frontend developer specializing in creating websites for local businesses in my city. My goal is to deliver modern, responsive, and functional solutions that help small and medium-sized enterprises stand out online and effectively reach their customers. My projects are characterized by aesthetics, usability, and adherence to the latest web design trends.
+<br><br>
+📚 My learning path:
+✅Learning general computer science, algorithmic concepts in computer science school. Foundations of languages such as c++, python, PHP, SQL and much more
+<br><br>
+✅ HTML CSS (fundaments)
+<br><br>
+✅ CSS, bootstrap, tailwind, SCSS (advanced topics)
+<br><br>
+✅ a lot of projects (to remember things I've learned)
+<br><br>
+✅ JavaScript (fundaments)
+<br><br>
+✅ JavaScript (advanced topics)
+<br><br>
+✅ NPM, Gulp, Git/GitHub (fundaments)
+<br><br>
+✅ a lot of projects (to remember things I've learned)
+<br><br>
+📄 React, Vite, Next
+<br><br>
+📄 testing applications
+<br><br>
+📄 TypeScript
+<br><br>
+📄 Backend topics
+<br><br>
+📄 Node.js(express) or Python(Django)
+<br><br>
+📄 Database MySQL, MongoDB
+<br><br>
+📄 Docker
+<br><br>
+📄 React Native ?
 
 <br><br>
 🌱 I’m currently learning: React
@@ -23,7 +56,6 @@ My skills:
   <li>Creating responsive and flexible websites using HTML, CSS(SCSS, tailwind.css), and JavaScript(react.js, next.js, vite)</li>
   <li>Designing and implementing interactive UI elements such as menus, forms, and animations</li>
   <li>Optimizing websites for loading speed and performance</li>
-  <li>Experience in creating websites based on the WordPress CMS</li>
   <li>Ability to work with teams of designers and back-end developers</li>
   <li>Familiarity with the latest front-end trends and technologies</li>
   <li>Knowledge of SQL databases and the PHP programming language</li>
