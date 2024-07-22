@@ -4,39 +4,6 @@
 # 💫 About Me:
 I am a frontend developer specializing in creating websites for local businesses in my city. My goal is to deliver modern, responsive, and functional solutions that help small and medium-sized enterprises stand out online and effectively reach their customers. My projects are characterized by aesthetics, usability, and adherence to the latest web design trends.
 <br><br>
-📚 My learning path:
-✅Learning general computer science, algorithmic concepts in computer science school. Foundations of languages such as c++, python, PHP, SQL and much more
-<br><br>
-✅ HTML CSS (fundaments)
-<br><br>
-✅ CSS, bootstrap, tailwind, SCSS (advanced topics)
-<br><br>
-✅ a lot of projects (to remember things I've learned)
-<br><br>
-✅ JavaScript (fundaments)
-<br><br>
-✅ JavaScript (advanced topics)
-<br><br>
-✅ NPM, Gulp, Git/GitHub (fundaments)
-<br><br>
-✅ a lot of projects (to remember things I've learned)
-<br><br>
-📄 React, Vite, Next
-<br><br>
-📄 testing applications
-<br><br>
-📄 TypeScript
-<br><br>
-📄 Backend topics
-<br><br>
-📄 Node.js(express) or Python(Django)
-<br><br>
-📄 Database MySQL, MongoDB
-<br><br>
-📄 Docker
-<br><br>
-📄 React Native ?
-
 <br><br>
 🌱 I’m currently learning: React
 <br><br>
@@ -49,7 +16,42 @@ I am a frontend developer specializing in creating websites for local businesses
 <br><br>
 
 # More Info About Me:
+<br><br>
+📚 My learning path:
+<br><br>
+✅Learning general computer science, algorithmic concepts in computer science school. Foundations of languages such as c++, python, PHP, SQL and much more
+<br>
+✅ HTML CSS (fundaments)
+<br>
+✅ CSS, bootstrap, tailwind, SCSS (advanced topics)
+<br>
+✅ a lot of projects (to remember things I've learned)
+<br>
+✅ JavaScript (fundaments)
+<br>
+✅ JavaScript (advanced topics)
+<br>
+✅ NPM, Gulp, Git/GitHub (fundaments)
+<br>
+✅ a lot of projects (to remember things I've learned)
+<br>
+📄 React, Vite, Next
+<br>
+📄 testing applications
+<br>
+📄 TypeScript
+<br>
+📄 Backend topics
+<br>
+📄 Node.js(express) or Python(Django)
+<br>
+📄 Database MySQL, MongoDB
+<br>
+📄 Docker
+<br>
+📄 React Native ?
 
+<br><br>
 My skills:
 <br>
 <ul>
