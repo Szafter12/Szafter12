@@ -6,7 +6,7 @@ I am a frontend developer specializing in creating websites for local businesses
 <br><br>
 🌱 I’m currently learning: React
 <br><br>
-👨‍💻 All of my projects are available at: https://github.com/Szafter12?tab=repositories
+👨‍💻 All of my projects are available at: <br> https://github.com/Szafter12?tab=repositories <br> https://codepen.io/Jakub-Pachut
 <br><br>
 📫 How to reach me: jakubpachut@gmail.com
 
