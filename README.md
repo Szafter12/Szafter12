@@ -10,6 +10,8 @@ I am a frontend developer specializing in creating websites for local businesses
 <br><br>
 <h4 align="center">My LIVE projects:</h4>
 <br><br>
+https://abcosmetik.pl/ (site for local beauty salon)
+<br><br>
 📫 How to reach me: <br> E-mail: jakubpachut@gmail.com
 
 ## 🌐 Socials:
