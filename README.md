@@ -9,7 +9,7 @@ I am a frontend developer specializing in creating websites for local businesses
 👨‍💻 All of my projects are available at: <br> GitHub Repositories: https://github.com/Szafter12?tab=repositories <br> CodePen: https://codepen.io/Jakub-Pachut
 <br><br>
 <h4 align="center">My LIVE projects:</h4>
-<br><br>
+<br>
 <h5 align="center">https://abcosmetik.pl/ (site for local beauty salon)</h5>
 <br><br>
 📫 How to reach me: <br> E-mail: jakubpachut@gmail.com
