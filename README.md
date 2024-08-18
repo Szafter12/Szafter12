@@ -7,11 +7,11 @@ I am a frontend developer specializing in creating websites for local businesses
 🌱 I’m currently learning: React
 <br><br>
 👨‍💻 All of my projects are available at: 
-<br> GitHub Repositories: https://github.com/Szafter12?tab=repositories 
-<br> CodePen: https://codepen.io/Jakub-Pachut
+<br>GitHub Repositories: https://github.com/Szafter12?tab=repositories 
+<br>CodePen: https://codepen.io/Jakub-Pachut
 <br>
-<h4> My LIVE projects:</h4>
-<h5> https://abcosmetik.pl/ (site for local beauty salon build with pure HTML CSS JS)</h5>
+<h4>My LIVE projects:</h4>
+<h5>https://abcosmetik.pl/ (site for local beauty salon build with pure HTML CSS JS)</h5>
 <br><br>
 📫 How to reach me: <br> E-mail: jakubpachut@gmail.com
 
