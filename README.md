@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Poland</h3>
 
 # 💫 About Me:
-I am a frontend/backend developer specializing in creating full stack app or websites. I also creating a websites for local customers and companies.
+I am a fullstack JavaScript(react+node+MongoDB) developer specializing in creating full stack app or websites. I also creating a websites in PHP and MySQL.
 <br><br>
 🌱 I’m currently learning: React
 <br><br>
@@ -49,6 +49,10 @@ FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 <br>
 ✅ WordPress (with plugin Woocomerce)
 <br>
+✅ Database MySQL, MongoDB
+<br>
+✅ PHP fundaments and litle advanced topics
+<br>
 📄 React, Vite, Next
 <br>
 📄 testing applications
@@ -58,8 +62,6 @@ FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 📄 Backend topics
 <br>
 📄 Node.js(express) or Python(Django)
-<br>
-📄 Database MySQL, MongoDB
 <br>
 📄 Docker
 <br>
