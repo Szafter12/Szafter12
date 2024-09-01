@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Poland</h3>
 
 # 💫 About Me:
-I am a fullstack JavaScript(react+node+MongoDB) developer specializing in creating full stack app or websites. I also creating a websites in PHP and MySQL.
+I am a fullstack JavaScript(MERN) developer specializing in creating full stack app or websites. I also creating a websites in PHP and MySQL.
 <br><br>
 🌱 I’m currently learning: React
 <br><br>
@@ -51,7 +51,7 @@ FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 <br>
 ✅ Database MySQL, MongoDB
 <br>
-✅ PHP fundaments and litle advanced topics
+✅ PHP fundaments and advanced topics
 <br>
 📄 React, Vite, Next
 <br>
@@ -66,21 +66,7 @@ FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 📄 Docker
 <br>
 📄 React Native ?
-
 <br><br>
-My skills:
-<br>
-<ul>
-  <li>Creating responsive and flexible websites using HTML, CSS(SCSS, tailwind.css), and JavaScript(react.js, next.js, vite)</li>
-  <li>Designing and implementing interactive UI elements such as menus, forms, and animations</li>
-  <li>Optimizing websites for loading speed and performance</li>
-  <li>Creating WordPress based sites including blog stores and the stuff like that</li>
-  <li>Ability to work with teams of designers and back-end developers</li>
-  <li>Familiarity with the latest front-end trends and technologies</li>
-  <li>Knowledge of SQL databases and the PHP programming language</li>
-</ul>
-<br><br>
-
 My strengths:
 <br>
 <ul>
@@ -88,14 +74,3 @@ My strengths:
   <li>Ability to think analytically and solve problems</li>
   <li>Passion for creating beautiful and functional websites</li>
 </ul>
-<br><br>
-
-What I can do for you:
-<br>
-<ul>
-  <li>I can design and build a modern website or web application for you that will meet your needs and expectations.</li>
-  <li>I can help you optimize your existing website for loading speed performance and SEO.</li>
-  <li>I can create interactive UI elements for you that will make your website more engaging for users.</li>
-  <li>I can work with you to ensure that your website is consistent with your brand and business goals.</li>
-</ul>
-<br><br>
