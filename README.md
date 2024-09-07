@@ -10,8 +10,8 @@ I am a fullstack JavaScript(MERN) developer specializing in creating full stack 
 <br>GitHub Repositories: https://github.com/Szafter12?tab=repositories 
 <br>CodePen: https://codepen.io/Jakub-Pachut
 <br>
-<h4>My LIVE projects:</h4>
-<h5>https://abcosmetik.pl/ (site for local beauty salon build with pure HTML CSS JS)</h5>
+<h4>LIVE sites:</h4>
+<h5>https://abcosmetik.pl/ (site for local beauty salon)</h5>
 <br><br>
 📫 How to reach me: <br> E-mail: jakubpachut@gmail.com
 
