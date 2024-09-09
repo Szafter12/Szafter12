@@ -3,15 +3,15 @@
 
 # 💫 About Me:
 I am a fullstack JavaScript(MERN) developer specializing in creating full stack app or websites. I also creating a websites in PHP and MySQL.
-<br>
+<br><br>
 🌱 I’m currently learning: React
 <br>
 📫 How to reach me: E-mail: jakubpachut@gmail.com
 ## Projects
-### LIVE sites
+<h3>LIVE sites</h3> 
 <a href="https://abcosmetik.pl/" target="_blank">abcosmetik.pl</a><span>(site for local beauty salon)</span> 
 <br>
-### HTML CSS JS (Pure)
+<h3>HTML CSS JS </h3>
 👨‍💻 Rest of my projects are available at: 
 <br>GitHub Repositories: https://github.com/Szafter12?tab=repositories 
 <br>CodePen: https://codepen.io/Jakub-Pachut
