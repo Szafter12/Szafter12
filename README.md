@@ -14,20 +14,20 @@ Frontend Mentor: https://www.frontendmentor.io/profile/Szafter12
 <br>
 FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 ## 🧩 Projects
-<h5>🖥️ LIVE sites</h5> 
+<h4>🖥️ LIVE sites</h4> 
 <a href="https://abcosmetik.pl/" target="_blank">abcosmetik.pl </a><span> Website for local beauty salon</span> 
 <br>
-<h5>🖥️ HTML CSS JS</h5>
+<h4>🖥️ HTML CSS JS</h4>
 <a href="https://github.com/Szafter12/JavaScript-Cart-OOP">JavaScript cart </a><span> Cart simulation</span>
 <br>
 <a href="https://github.com/Szafter12/Grid-site">DG&M</a><span> Investing website </span>
 <br>
 <a href="https://github.com/Szafter12/Tropical-Paradise">Tropical Paradise </a><span> website for travel agency</span>
 <br>
-<h5>🖥️ HTML CSS JS PHP MySQL</h5>
+<h4>🖥️ HTML CSS JS PHP MySQL</h4>
 <a href="https://github.com/Szafter12/LumpSociety">LumpSociety </a><span> E-commerce store website</span>
 <br>
-<h5>👨‍💻 Rest of my projects are available at:</h5>
+<h4>👨‍💻 Rest of my projects are available at:</h4>
 GitHub Repositories: https://github.com/Szafter12?tab=repositories
 <br>
 CodePen: https://codepen.io/Jakub-Pachut
