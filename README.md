@@ -9,12 +9,22 @@ I am a fullstack JavaScript(MERN) developer specializing in creating full stack 
 📫 How to reach me: E-mail: jakubpachut@gmail.com
 ## Projects
 <h3>LIVE sites</h3> 
-<a href="https://abcosmetik.pl/" target="_blank">abcosmetik.pl</a><span>(site for local beauty salon)</span> 
+<a href="https://abcosmetik.pl/" target="_blank">abcosmetik.pl</a><span> (site for local beauty salon)</span> 
 <br>
-<h3>HTML CSS JS </h3>
-👨‍💻 Rest of my projects are available at: 
-<br>GitHub Repositories: https://github.com/Szafter12?tab=repositories 
-<br>CodePen: https://codepen.io/Jakub-Pachut
+<h3>HTML CSS JS</h3>
+<a href="https://github.com/Szafter12/JavaScript-Cart-OOP">JavaScript cart</a><span> Cart simulation</span>
+<br>
+<a href="https://github.com/Szafter12/Grid-site">DG&M</a><span> Investing site</span>
+<br>
+<a href="https://github.com/Szafter12/Tropical-Paradise">Tropical Paradise</a><span> website for travel agency</span>
+<br>
+<h3>HTML CSS JS PHP MySQL</h3>
+<a href="https://github.com/Szafter12/LumpSociety">LumpSociety</a><span> E-commerce store</span>
+<br>
+<h3>👨‍💻 Rest of my projects are available at:</h3>
+GitHub Repositories: https://github.com/Szafter12?tab=repositories 
+CodePen: https://codepen.io/Jakub-Pachut
+
 ## 🌐 Socials:
 CodePen: https://codepen.io/Jakub-Pachut
 <br>
