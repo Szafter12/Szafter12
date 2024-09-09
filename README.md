@@ -14,18 +14,18 @@ Frontend Mentor: https://www.frontendmentor.io/profile/Szafter12
 <br>
 FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 ## 🧩 Projects
-<h4>🖥️ LIVE sites</h4> 
+<h4>👨‍💻 LIVE sites</h4> 
 <a href="https://abcosmetik.pl/" target="_blank">abcosmetik.pl </a><span> Website for local beauty salon</span> 
 <br>
-<h4>🖥️ HTML CSS JS</h4>
-<a href="https://github.com/Szafter12/JavaScript-Cart-OOP">JavaScript cart </a><span> Cart simulation</span>
+<h4>👨‍💻 HTML CSS JS</h4>
+JavaScript cart - cart simulation: https://github.com/Szafter12/JavaScript-Cart-OOP
 <br>
-<a href="https://github.com/Szafter12/Grid-site">DG&M</a><span> Investing website </span>
+DG&M - Investing website: https://github.com/Szafter12/Grid-site
 <br>
-<a href="https://github.com/Szafter12/Tropical-Paradise">Tropical Paradise </a><span> website for travel agency</span>
+Tropical Paradise - website for travel agency: https://github.com/Szafter12/Tropical-Paradise
 <br>
-<h4>🖥️ HTML CSS JS PHP MySQL</h4>
-<a href="https://github.com/Szafter12/LumpSociety">LumpSociety </a><span> E-commerce store website</span>
+<h4>👨‍💻 HTML CSS JS PHP MySQL</h4>
+LumpSociety - e-commerce store website: https://github.com/Szafter12/LumpSociety
 <br>
 <h4>👨‍💻 Rest of my projects are available at:</h4>
 GitHub Repositories: https://github.com/Szafter12?tab=repositories
@@ -37,10 +37,8 @@ CodePen: https://codepen.io/Jakub-Pachut
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 <br><br>
 
-# More Info About Me
-
 ## 📚 My learning path:
-<br><br>
+<br>
 ✅Learning general computer science, algorithmic concepts in computer science school. Foundations of languages such as c++, python, PHP, SQL and much more
 <br>
 ✅ HTML CSS (fundaments)
