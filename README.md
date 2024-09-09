@@ -12,7 +12,9 @@ I am a fullstack JavaScript(MERN) developer specializing in creating full stack 
 <br>
 <h4>LIVE sites:</h4>
 <h5>https://abcosmetik.pl/ (site for local beauty salon)</h5>
-<br><br>
+
+<br>
+
 📫 How to reach me: <br> E-mail: jakubpachut@gmail.com
 
 ## 🌐 Socials:
