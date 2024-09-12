@@ -28,7 +28,7 @@ DG&M - Investing website: https://github.com/Szafter12/Grid-site
 <br>
 Tropical Paradise - website for travel agency: https://github.com/Szafter12/Tropical-Paradise
 <br>
-<h4>👨‍💻 HTML CSS JS PHP MySQL</h4>
+<h4>👨‍💻 PHP MySQL</h4>
 LumpSociety - e-commerce store website: https://github.com/Szafter12/LumpSociety
 <br>
 <h4>👨‍💻 Rest of my projects are available at:</h4>
