@@ -79,6 +79,7 @@ CodePen: https://codepen.io/Jakub-Pachut
 <br>
 📄 React Native ?
 <br><br>
+
 ## My strengths:
 <br>
 <ul>
