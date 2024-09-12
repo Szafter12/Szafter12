@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Poland</h3>
 
 # 💫 About Me:
-I am a fullstack JavaScript(MERN) developer specializing in creating full stack app or websites. I also creating a websites in PHP and MySQL.
+I am a fullstack JavaScript(MERN) developer specializing in creating full stack app or websites. I also know and use PHP and MySQL.
 <br><br>
 🌱 I’m currently learning: React
 <br>
