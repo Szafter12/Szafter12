@@ -12,6 +12,8 @@ I am always eager to take on new challenges and collaborate on exciting projects
 <br>
 📫 How to reach me: jakubpachut@gmail.com
 ## 🌐 Socials:
+Linkedin: https://www.linkedin.com/in/jakub-pachut-700ba3323/
+<br>
 CodePen: https://codepen.io/Jakub-Pachut
 <br>
 Frontend Mentor: https://www.frontendmentor.io/profile/Szafter12
