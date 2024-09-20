@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Poland</h3>
 
 # 💫 About Me:
-I am a passionate and dedicated web developer with extensive experience in creating dynamic and responsive websites as a freelancer. My skill set includes HTML, CSS, JavaScript, PHP, MySQL, TypeScript, React, Node.js. I also know well the principles of UI UX design. I know how to optimize pages for SEO, performance and accessibility. 
+I am a passionate and dedicated web developer with extensive experience in creating dynamic and responsive websites as a freelancer. My skill set includes HTML, CSS(Sass), Bootstrap, Tailwind, JavaScript, PHP, MySQL, TypeScript, React, Node.js, express. I also know well the principles of UI UX design. I know how to optimize pages for SEO, performance and accessibility. 
 I have a strong foundation in both front-end and back-end development, allowing me to build comprehensive web solutions.
 <br><br>
 Currently, I am in my final year of technical high school, where I am honing my programming and IT skills. After graduation, I plan to further my education in computer science to deepen my knowledge and expertise in the field.
