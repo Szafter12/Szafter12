@@ -8,7 +8,7 @@ Currently, I am in my final year of technical high school, where I am honing my 
 <br><br>
 I am always eager to take on new challenges and collaborate on exciting projects that push the boundaries of what web technology can achieve.
 <br><br>
-🌱 I’m currently learning: React
+🌱 I’m currently learning: React (advanced topics)
 <br>
 📫 How to reach me: jakubpachut@gmail.com
 ## 🌐 Socials:
@@ -23,12 +23,12 @@ FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 ## 🧩 Projects
 
 <h4>👨‍💻 LIVE sites</h4> 
-<a href="https://abcosmetik.pl/" target="_blank">abcosmetik.pl </a><span> Website for local beauty salon</span> 
+ AB Cosemtik - Website for local beauty salon: https://abcosmetik.pl/abcosmetik.pl
 <br>
 <h4>👨‍💻 PHP MySQL</h4>
 LumpSociety - e-commerce store website: https://github.com/Szafter12/LumpSociety
 
-## 🧩 Practice projects
+## 📚 Practice projects
 
 <h4>👨‍💻 HTML CSS JS</h4>
 JavaScript cart - cart simulation: https://github.com/Szafter12/JavaScript-Cart-OOP
