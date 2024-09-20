@@ -9,7 +9,7 @@ Currently, I am in my final year of technical high school, where I am honing my 
 I am always eager to take on new challenges and collaborate on exciting projects that push the boundaries of what web technology can achieve.
 <br><br>
 🌱 I’m currently learning: React (advanced topics)
-<br>
+<br><br>
 📫 How to reach me: jakubpachut@gmail.com
 ## 🌐 Socials:
 Linkedin: https://www.linkedin.com/in/jakub-pachut-700ba3323/
