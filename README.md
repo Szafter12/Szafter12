@@ -19,10 +19,17 @@ CodePen: https://codepen.io/Jakub-Pachut
 Frontend Mentor: https://www.frontendmentor.io/profile/Szafter12
 <br>
 FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
+
 ## 🧩 Projects
+
 <h4>👨‍💻 LIVE sites</h4> 
 <a href="https://abcosmetik.pl/" target="_blank">abcosmetik.pl </a><span> Website for local beauty salon</span> 
 <br>
+<h4>👨‍💻 PHP MySQL</h4>
+LumpSociety - e-commerce store website: https://github.com/Szafter12/LumpSociety
+
+## 🧩 Practice projects
+
 <h4>👨‍💻 HTML CSS JS</h4>
 JavaScript cart - cart simulation: https://github.com/Szafter12/JavaScript-Cart-OOP
 <br>
@@ -30,10 +37,7 @@ DG&M - Investing website: https://github.com/Szafter12/Grid-site
 <br>
 Tropical Paradise - website for travel agency: https://github.com/Szafter12/Tropical-Paradise
 <br>
-<h4>👨‍💻 PHP MySQL</h4>
-LumpSociety - e-commerce store website: https://github.com/Szafter12/LumpSociety
-<br>
-<h4>👨‍💻 Rest of my projects are available at:</h4>
+<h4>👨‍💻 Rest of my practice projects are available at:</h4>
 GitHub Repositories: https://github.com/Szafter12?tab=repositories
 <br>
 CodePen: https://codepen.io/Jakub-Pachut
