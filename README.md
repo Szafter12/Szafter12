@@ -2,7 +2,8 @@
 <h3 align="center">Full stack developer from Poland</h3>
 
 # 💫 About Me:
-I am a passionate and dedicated web developer with extensive experience in creating dynamic and responsive websites as a freelancer. My skill set includes HTML, CSS, JavaScript, PHP, MySQL, TypeScript, React, Node.js, and much more. I have a strong foundation in both front-end and back-end development, allowing me to build comprehensive web solutions.
+I am a passionate and dedicated web developer with extensive experience in creating dynamic and responsive websites as a freelancer. My skill set includes HTML, CSS, JavaScript, PHP, MySQL, TypeScript, React, Node.js. I also know well the principles of UI UX design. I know how to optimize pages for SEO, performance and accessibility. 
+I have a strong foundation in both front-end and back-end development, allowing me to build comprehensive web solutions.
 <br><br>
 Currently, I am in my final year of technical high school, where I am honing my programming and IT skills. After graduation, I plan to further my education in computer science to deepen my knowledge and expertise in the field.
 <br><br>
@@ -41,45 +42,6 @@ CodePen: https://codepen.io/Jakub-Pachut
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-<br><br>
-
-## 📚 My learning path:
-<br>
-✅Learning general computer science, algorithmic concepts in computer science school. Foundations of languages such as c++, python, PHP, SQL and much more
-<br>
-✅ HTML CSS (fundaments)
-<br>
-✅ CSS, bootstrap, tailwind, SCSS (advanced topics)
-<br>
-✅ a lot of projects (to remember things I've learned)
-<br>
-✅ JavaScript (fundaments)
-<br>
-✅ JavaScript (advanced topics)
-<br>
-✅ NPM, Gulp, Git/GitHub (fundaments)
-<br>
-✅ a lot of projects (to remember things I've learned)
-<br>
-✅ WordPress (with plugin Woocomerce)
-<br>
-✅ Database MySQL, MongoDB
-<br>
-✅ PHP fundaments and advanced topics
-<br>
-📄 React, Vite, Next
-<br>
-📄 testing applications
-<br>
-📄 TypeScript
-<br>
-📄 Backend topics
-<br>
-📄 Node.js(express) or Python(Django)
-<br>
-📄 Docker
-<br>
-📄 React Native ?
 <br><br>
 
 ## 💪 My strengths:
