@@ -18,7 +18,7 @@ Frontend Mentor: https://www.frontendmentor.io/profile/Szafter12
 <br>
 FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 
-## 🧩 Projects
+## 🧩 Projects (major projects)
 
 <h4>👨‍💻 LIVE sites</h4> 
  AB Cosemtik - Website for local beauty salon: https://abcosmetik.pl/abcosmetik.pl
@@ -26,7 +26,7 @@ FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 <h4>👨‍💻 PHP MySQL</h4>
 LumpSociety - e-commerce store website: https://github.com/Szafter12/LumpSociety
 
-## 📚 Practice projects
+## 📚 Practice projects (exercise projects)
 
 <h4>👨‍💻 My practice projects are available at:</h4>
 GitHub Repositories: https://github.com/Szafter12?tab=repositories
