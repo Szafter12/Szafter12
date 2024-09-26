@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 
 # 💫 About Me:
-I'm a final-year technical high school student with a passion for web development. Skilled in both front-end and back-end technologies. In my free time, I work as a freelance web developer, learn a new stuff, go to the gym and write a code.
+
+I'm a final-year technical high school student with a passion for web development. Skilled in both front-end and back-end technologies. In my free time, I work as a freelance web developer, learn a new stuff, hit the gym and write a code or do some leetcode problems.
 <br><br>
 I plan to pursue a degree in Computer Science to expand my knowledge and skills further.
 I am always eager to take on new challenges and collaborate on exciting projects that push the boundaries of what web technology can achieve.
 <br><br>
-🌱 I’m currently learning: React (advanced topics)
+🌱 I’m currently learning: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <br><br>
 📫 How to reach me: jakubpachut@gmail.com
+
 ## 🌐 Socials:
 Linkedin: https://www.linkedin.com/in/jakub-pachut-700ba3323/
 <br>
-CodePen: https://codepen.io/Jakub-Pachut
-<br>
 Frontend Mentor: https://www.frontendmentor.io/profile/Szafter12
-<br>
-FreeCodeCamp: https://www.freecodecamp.org/JakubPachut
 
 ## 🧩 Projects (major projects)
 
