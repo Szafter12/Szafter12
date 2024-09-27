@@ -16,7 +16,7 @@ I am always eager to take on new challenges and collaborate on exciting projects
 ## 🌐 Socials:
 Linkedin: https://www.linkedin.com/in/jakub-pachut-700ba3323/
 <br>
-Frontend Mentor: https://www.frontendmentor.io/profile/Szafter12
+LeetCode: https://leetcode.com/u/Szafter12/
 
 ## 🧩 Projects (major projects)
 
