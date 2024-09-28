@@ -21,7 +21,7 @@ LeetCode: https://leetcode.com/u/Szafter12/
 ## 🧩 Projects (major projects)
 
 <h4>👨‍💻 LIVE sites</h4> 
- AB Cosemtik - Website for local beauty salon: https://abcosmetik.pl/abcosmetik.pl
+ AB Cosemtik - Website for local beauty salon: https://abcosmetik.pl/
 <br>
 <h4>👨‍💻 PHP MySQL</h4>
 LumpSociety - e-commerce store website: https://github.com/Szafter12/LumpSociety
