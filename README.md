@@ -3,8 +3,7 @@
 I'm a final-year technical high school student with a passion for web development. Skilled in both front-end and back-end technologies. 
 In my free time, I work as a freelance web developer, learn a new stuff, hit the gym and write a code or do some leetcode.
 I plan to pursue a degree in Computer Science to expand my knowledge and skills further.
-
-<br><br>
+<br>
 📫 How to reach me: jakubpachut@gmail.com
 
 ## 🌱 I’m currently learning 
