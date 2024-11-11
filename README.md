@@ -8,7 +8,8 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 
 ## 🧩 Projects I'm Proud Of
 
-- [**LumpSoceity**](https://github.com/Szafter12/LumpSociety): A E-commerce demo site created with HTML, CSS(scss,bootstrap), JavaScript, PHP, MySQL.
+- [**LumpSoceity**](https://github.com/Szafter12/LumpSociety): A E-commerce demo website created with HTML, CSS(scss,bootstrap), JavaScript, PHP, MySQL.
+- [**TopShop**](https://github.com/Szafter12/Top-shop): Demo e-commerce website create in react and json server.
 
 ## 👨‍💻 LIVE sites 
  
