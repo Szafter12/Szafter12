@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I'm a final-year technical high school student with a passion for web development. Skilled in both front-end and back-end technologies. 
+I'm a final-year technical high school student with a passion for web development. 
 In my free time, I work as a freelance web developer, learn a new stuff, hit the gym and write a code.
 I plan to pursue a degree in Computer Science to expand my knowledge and skills further.
 
