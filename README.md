@@ -20,7 +20,6 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 ## 📚 Practice projects (exercise projects)
 
 - [***GitHub Repositories***](https://github.com/Szafter12?tab=repositories): Here all of my projects
-
 - [***CodePen***](https://codepen.io/Jakub-Pachut): JavaScript projects
 
 ## 💻 Tech Stack:
