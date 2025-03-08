@@ -73,7 +73,7 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   
 
-- 🚀 Upcoming: Building full-stack applications with React, TypeScript, Nodejs and MySQL.
+- 🚀 Upcoming: Building full-stack applications with React, TypeScript, Laravel and MySQL.
 
 ## Let's Connect
 
