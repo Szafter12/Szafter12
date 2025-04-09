@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 I'm a final-year technical high school student with a passion for web development. 
-In my free time, I work as a freelance web developer, learn a new stuff, hit the gym and write a code.
+In my free time, I work as a freelance web developer, learn new stuff, hit the gym and write a code.
 I plan to pursue a degree in Computer Science to expand my knowledge and skills further.
 
 <div align="center">
@@ -48,6 +48,7 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 ### Back-end: <br>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -72,7 +73,6 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 
 - 🌱 I’m currently learning:
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
