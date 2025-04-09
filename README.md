@@ -6,6 +6,8 @@ I'm a final-year technical high school student with a passion for web developmen
 In my free time, I work as a freelance web developer, learn a new stuff, hit the gym and write a code.
 I plan to pursue a degree in Computer Science to expand my knowledge and skills further.
 
+![preview](https://media.tenor.com/ihRrSlteNXIAAAAM/php-my-beloved.gif)
+
 ## 🧩 Projects I'm Proud Of
 
 - [**LumpSociety**](https://github.com/Szafter12/LumpSociety): A E-commerce demo website created with HTML, CSS(scss,bootstrap), JavaScript, PHP, MySQL.
