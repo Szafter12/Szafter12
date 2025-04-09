@@ -17,8 +17,8 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 ## 👨‍💻 LIVE sites 
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
- - [**Fixly**](https://fix-app.hmcloud.pl/web): A webapp for contractors who are looking for work
- - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative
+ - [**Fixly**](https://fix-app.hmcloud.pl/web): A webapp for contractors who are looking for work (build in php)
+ - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative (build in nextjs)
 
 ## 📚 Practice projects (exercise projects)
 
