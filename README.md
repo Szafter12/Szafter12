@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 I'm a final-year technical high school student with a passion for web development. 
-In my free time, I work as a freelance web developer, learn new stuff, hit the gym and write a code.
+In my free time, I work as a freelance web developer, learn new stuff and write code.
 I plan to pursue a degree in Computer Science to expand my knowledge and skills further.
 
 <div align="center">
@@ -14,15 +14,15 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 
 - [**LumpSociety**](https://github.com/Szafter12/LumpSociety): A E-commerce demo website created with HTML, CSS(scss,bootstrap), JavaScript, PHP, MySQL.
 - [**TopShop**](https://github.com/Szafter12/Top-shop): Demo e-commerce website create in react and json server.
-- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Project of car selling website built in Laravel 
+- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website built in Laravel 
 
 ## 👨‍💻 LIVE sites 
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
- - [**Fixly**](https://fix-app.hmcloud.pl/web): A webapp for contractors who are looking for work (built in php)
+ - [**Fixly**](https://fix-app.hmcloud.pl/web): Webapp for contractors who are looking for work (built in php)
  - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative (built in nextjs)
 
-## 📚 Practice projects (exercise projects)
+## 📚 Practice projects (Exercise projects)
 
 - [***GitHub Repositories***](https://github.com/Szafter12?tab=repositories): Here all of my projects
 - [***CodePen***](https://codepen.io/Jakub-Pachut): JavaScript projects
