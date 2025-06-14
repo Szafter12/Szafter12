@@ -1,10 +1,4 @@
-### Hi there 👋, I'm Jakub!
-
 ## 💫 About Me:
-
-I'm a final-year technical high school student with a passion for web development. 
-In my free time, I work as a freelance web developer, learn new stuff and write code.
-I plan to pursue a degree in Computer Science to expand my knowledge and skills further.
 
 <div align="center">
   <img src="https://media.tenor.com/ihRrSlteNXIAAAAM/php-my-beloved.gif" alt="Logo" width="200"/>
@@ -12,16 +6,16 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 
 ## 🧩 Projects I'm Proud Of
 
-- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): E-commerce demo website (old project)
-- [**TopShop**](https://github.com/Szafter12/Top-shop): Demo e-commerce website create in react and json server.
 - [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website built in Laravel 
+- [**TopShop**](https://github.com/Szafter12/Top-shop): Demo e-commerce website create in react and json server.
+- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): E-commerce demo website (old project)
 
 ## 👨‍💻 LIVE sites 
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
  - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative (built in nextjs)
 
-## 📚 Practice projects (Exercise projects)
+## 📚 Exercise projects
 
 - [***GitHub Repositories***](https://github.com/Szafter12?tab=repositories): Here all of my projects
 - [***CodePen***](https://codepen.io/Jakub-Pachut): JavaScript projects
@@ -72,11 +66,6 @@ I plan to pursue a degree in Computer Science to expand my knowledge and skills 
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)   
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Design: 
-
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## What's Next?
 
