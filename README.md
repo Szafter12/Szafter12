@@ -6,9 +6,9 @@
 
 ## 🧩 Projects I'm Proud Of
 
-- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website built in Laravel 
-- [**TopShop**](https://github.com/Szafter12/Top-shop): Demo e-commerce website create in react and json server.
-- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): E-commerce demo website (old project)
+- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website created in Laravel 
+- [**TopShop**](https://github.com/Szafter12/Top-shop): Demo shop website create in react and json server.
+- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo shop website created
 
 ## 👨‍💻 LIVE sites 
  
