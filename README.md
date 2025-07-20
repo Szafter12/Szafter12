@@ -8,7 +8,7 @@
 
 - [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website created in Laravel 
 - [**TopShop**](https://github.com/Szafter12/Top-shop): Demo shop website create in react and json server.
-- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo shop website created
+- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo shop website
 
 ## 👨‍💻 LIVE sites 
  
@@ -40,6 +40,7 @@
 ### Back-end: <br>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
