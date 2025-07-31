@@ -6,14 +6,15 @@
 
 ## 🧩 Projects I'm Proud Of
 
-- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website created in Laravel 
-- [**TopShop**](https://github.com/Szafter12/Top-shop): Demo shop website create in react and json server.
+- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website built with laravel
+- [**WorkIT**](https://github.com/Szafter12/WorkIT): Platform with job offers in IT built with react and laravel 
+- [**TopShop**](https://github.com/Szafter12/Top-shop): Demo shop website built with react and json server.
 - [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo shop website
 
 ## 👨‍💻 LIVE sites 
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
- - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative created in nextjs
+ - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative built with nextjs
 
 ## 📚 Exercise projects
 
