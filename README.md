@@ -55,13 +55,6 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## What's Next?
-
-- 🌱 I’m currently learning:
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-- 🚀 Upcoming: Building full-stack applications with React, Laravel and MySQL.
-
 ## Let's Connect
 
 - 📧 Email: [jakubpachut@gmail.com](mailto:jakubpachut@gmail.com)
