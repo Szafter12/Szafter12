@@ -10,7 +10,7 @@
 - [**WorkIT**](https://github.com/Szafter12/WorkIT): Platform with job offers in IT built with react and laravel 
 - [**TopShop**](https://github.com/Szafter12/Top-shop): Demo shop website built with react and json server.
 - [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo shop website
-- [***CodePen***](https://codepen.io/Jakub-Pachut): JavaScript projects
+- [***JavaScript projects***](https://codepen.io/Jakub-Pachut)
 - [**All projects...**](https://github.com/Szafter12?tab=repositories)
 
 ## 👨‍💻 LIVE sites 
