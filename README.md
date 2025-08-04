@@ -10,20 +10,17 @@
 - [**WorkIT**](https://github.com/Szafter12/WorkIT): Platform with job offers in IT built with react and laravel 
 - [**TopShop**](https://github.com/Szafter12/Top-shop): Demo shop website built with react and json server.
 - [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo shop website
+- [***CodePen***](https://codepen.io/Jakub-Pachut): JavaScript projects
+- [**All projects...**](https://github.com/Szafter12?tab=repositories)
 
 ## 👨‍💻 LIVE sites 
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
  - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative built with nextjs
 
-## 📚 Exercise projects
-
-- [***GitHub Repositories***](https://github.com/Szafter12?tab=repositories): Here all of my projects
-- [***CodePen***](https://codepen.io/Jakub-Pachut): JavaScript projects
-
 ## 💻 Tech Stack:
 
-### Front-end: <br>
+### Front-end: 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +34,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### Back-end: <br>
+### Back-end: 
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
@@ -46,7 +43,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### DevOps & Servers administration: <br>
+### DevOps & Servers administration: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
