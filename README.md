@@ -6,7 +6,7 @@
 
 ## 🧩 Projects I'm Proud Of
 
-- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo cars selling website built with laravel
+- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo car sales platform website built with laravel
 - [**WorkIT**](https://github.com/Szafter12/WorkIT): Platform with job offers in IT built with react SPA and laravel api 
 - [**TopShop**](https://github.com/Szafter12/Top-shop): Demo e-commerce SPA application built with react and json server.
 - [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo e-commerce website built with php and mysql
