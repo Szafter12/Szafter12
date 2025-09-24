@@ -16,7 +16,7 @@
 ## 👨‍💻 LIVE sites 
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
- - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative built with nextjs
+ - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative built with nextjs & WP headless api
 
 ## 💻 Tech Stack:
 
