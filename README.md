@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/ihRrSlteNXIAAAAM/php-my-beloved.gif" alt="Logo" width="200"/>
 </div>
 
-## 🧩 Projects I'm Proud Of
+## 🧩 Projects
 
 - [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo car sales platform website built with laravel
 - [**WorkIT**](https://github.com/Szafter12/WorkIT): Platform with job offers in IT built with react SPA and laravel api 
