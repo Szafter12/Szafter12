@@ -6,15 +6,16 @@
 
 ## 🧩 Projects
 
-- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo car sales platform website built with laravel
-- [**WorkIT**](https://github.com/Szafter12/WorkIT): Platform with job offers in IT built with react SPA and laravel api 
+- [**CarSell**](https://github.com/Szafter12/Car-selling-site-laravel): Demo car sales platform website built with Laravel
+- [**Feline Slayer**](https://github.com/Szafter12/PI-game): University project for "Introduction to Computer Science" course
+- [**WorkIT**](https://github.com/Szafter12/WorkIT): Platform with job offers in IT built with react SPA and Laravel API 
 - [**TopShop**](https://github.com/Szafter12/Top-shop): Demo e-commerce SPA application built with react and json server.
-- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo e-commerce website built with php and mysql
+- [**LumpSociety**](https://github.com/Szafter12/LumpSociety): Demo e-commerce website built with PHP and MySQL
 
 ## 👨‍💻 LIVE sites 
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
- - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative built with nextjs & WP headless api
+ - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative built with nextjs & WP headless API
 
 ## 💻 Tech Stack:
 
