@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/59/1f/b3/591fb36f4d6518bd33001cee7946df1d.jpg" alt="Logo"/>
+  <img src="https://i.pinimg.com/736x/59/1f/b3/591fb36f4d6518bd33001cee7946df1d.jpg" alt="Logo" width="200"/>
 </div>
 
 ## 🧩 Projects
