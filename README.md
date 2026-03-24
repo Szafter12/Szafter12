@@ -6,6 +6,7 @@
  
  - [**AB Cosemtik**](https://abcosmetik.pl/):  Website for local beauty salon.
  - [**RSZZ Limanowa**](https://rszzlimanowa.pl): Website for local cooperative built with nextjs & WP headless API
+ - [**RoboBoat 2026](https://roboboat.aghsolarboat.pl/): This website was created for the RoboBoat 2026 competition through my membership in the AGH Solar Boat Team research club. Built with next.js
 
 ## Tech Stack:
 
