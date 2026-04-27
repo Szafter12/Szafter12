@@ -9,7 +9,7 @@ I am Jakub, a CS student at AGH University of Krakow. I specialize in .NET backe
 Projects I've worked on include:
  - [AB Cosemtik](https://abcosmetik.pl):  Website for local beauty salon.
  - [RSZZ Limanowa](https://rszzlimanowa.pl): Website for local cooperative.
- - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website created through my membership in the AGH Solar Boat Team research club.
+ - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
 
 ---
 
