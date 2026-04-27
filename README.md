@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jakub, a Software Engineer and CS student at AGH University of Krakow. I specialize in .NET backend development while maintaining a deep interest in low-level systems (C/C++) and Linux administration.
+I am Jakub, a CS student at AGH University of Krakow. I specialize in .NET backend development while maintaining a deep interest in low-level systems (C/C++) and Linux administration.
 
 🌱 Currently I am taking a Microsoft's Professional Backend Developer course.
 
