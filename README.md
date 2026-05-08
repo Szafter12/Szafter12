@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jakub, a CS student at AGH University of Krakow. I specialize in .NET backend development while maintaining a deep interest in low-level systems (C/C++) and Linux administration.
+I am Jakub, a CS student at AGH University of Krakow. I specialize in backend engineering while maintaining a deep interest in low-level systems, Math and Telecommunications.
 
 🌱 Currently I am taking a Microsoft's Professional Backend Developer course.
 
@@ -10,7 +10,7 @@ Projects I've worked on include:
  - [RSZZ Limanowa](https://rszzlimanowa.pl): Webapp for local cooperative.
  - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
  - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game.
- - [Car Sales Platform](https://github.com/Szafter12/Car-sales-platform-laravel): A Full-stack automotive marketplace.
+ - [Car Sales Platform](https://github.com/Szafter12/Car-sales-platform-laravel): Laravel automotive marketplace.
  - [WorkIT](https://github.com/Szafter12/WorkIT): Full-stack job advertise platform.
 
 ---
