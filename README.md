@@ -9,9 +9,9 @@ I am Jakub, a CS student at AGH University of Krakow. I specialize in backend en
 Projects I've worked on include:
  - [RSZZ Limanowa](https://rszzlimanowa.pl): Webapp for local cooperative.
  - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
- - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game.
- - [Car Sales Platform](https://github.com/Szafter12/Car-sales-platform-laravel): Laravel automotive marketplace.
- - [WorkIT](https://github.com/Szafter12/WorkIT): Full-stack job advertise platform.
+ - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game as capstone of "Introduction to CS".
+ - [Car Sales Platform](https://github.com/Szafter12/Car-sales-platform-laravel): Laravel automotive marketplace as capston of Laravel 12 course.
+ - [WorkIT](https://github.com/Szafter12/WorkIT): Full-stack job advertise platform as capstone of school class.
 
 ---
 
