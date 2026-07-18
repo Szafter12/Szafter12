@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jakub, a CS student at AGH University of Krakow. I specialize in backend engineering while maintaining a deep interest in low-level systems, Math and Telecommunications.
+I am Jakub, a CS student @ AGH Krakow. Focused on Systems Engineering, High-Performance Computing (HPC), and the hardware-software boundary. Currently building in Modern C++, C, and diving into CUDA/GPU architecture.
 
 🌱 Currently I'm working through the "Computer Systems A Programmer's Perspective" book.
 
