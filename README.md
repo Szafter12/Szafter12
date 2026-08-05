@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jakub, a CS student @ AGH Krakow. Focused on Systems Engineering, High-Performance Computing (HPC), and the hardware-software boundary. Currently building in Modern C++, C, and diving into CUDA/GPU architecture.
+I am Jakub, a CS student @ AGH University of Krakow. Focused on Systems Engineering, High-Performance Computing (HPC), and the hardware-software boundary. Currently building in Modern C++, C, and diving into CUDA/GPU architecture.
 
 🌱 Currently I'm working through the "Computer Systems A Programmer's Perspective" book.
 
