@@ -7,9 +7,10 @@ I am Jakub, a Computer Science in Engineering student @ AGH University of Krakow
 ---
 
 Projects I've worked on include:
+ - [HTTP Server C](https://github.com/Szafter12/http-server): Custom HTTP server built from scratch in C using POSIX API 
+ - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game as capstone of "Introduction to CS".
  - [RSZZ Limanowa](https://rszzlimanowa.pl): Webapp for local cooperative.
  - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
- - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game as capstone of "Introduction to CS".
  - [Car Sales Platform](https://github.com/Szafter12/Car-sales-platform-laravel): Laravel automotive marketplace as capston of Laravel 12 course.
  - [WorkIT](https://github.com/Szafter12/WorkIT): Full-stack job advertise platform as capstone of school class.
 
