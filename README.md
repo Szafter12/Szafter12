@@ -12,7 +12,6 @@ Projects I've worked on include:
  - [RSZZ Limanowa](https://rszzlimanowa.pl): Webapp for local cooperative.
  - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
  - [Car Sales Platform](https://github.com/Szafter12/Car-sales-platform-laravel): Laravel automotive marketplace as capston of Laravel 12 course.
- - [WorkIT](https://github.com/Szafter12/WorkIT): Full-stack job advertise platform as capstone of school class.
 
 ---
 
