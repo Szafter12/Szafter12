@@ -7,7 +7,8 @@ I am Jakub, a Computer Science in Engineering student @ AGH University of Krakow
 ---
 
 Projects I've worked on include:
- - [HTTP Server C](https://github.com/Szafter12/http-server): Custom HTTP server built from scratch in C using POSIX API 
+ - [HTTP Server C](https://github.com/Szafter12/http-server): Custom HTTP server built from scratch in C using POSIX API
+ - [Cache Simulator](https://github.com/Szafter12/Cache-Lab-CSAPP): Cache simulator creating from scratch in C and some Cache optimalizations
  - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game as capstone of "Introduction to CS".
  - [RSZZ Limanowa](https://rszzlimanowa.pl): Webapp for local cooperative.
  - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
