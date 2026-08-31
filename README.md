@@ -12,7 +12,7 @@ Projects I've worked on include:
  - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game as capstone of "Introduction to CS".
  - [RSZZ Limanowa](https://rszzlimanowa.pl): Webapp for local cooperative.
  - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
- - [Car Sales Platform](https://github.com/Szafter12/Car-sales-platform-laravel): Laravel automotive marketplace as capston of Laravel 12 course.
+ - [WorkIT](https://github.com/Szafter12/WorkIT): IT job advertising platform designed based on pracuj.pl created for learning purpose.
 
 ---
 
