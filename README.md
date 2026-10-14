@@ -7,12 +7,9 @@ I am Jakub, a Computer Science in Engineering student @ AGH University of Krakow
 ---
 
 Projects I've worked on include:
- - [HTTP Server C](https://github.com/Szafter12/http-server): Custom HTTP server built from scratch in C using POSIX API
+ - [HTTP Server C version](https://github.com/Szafter12/http-server): Custom HTTP server built from scratch in C using POSIX API
  - [Cache Simulator C version](https://github.com/Szafter12/Cache-Lab-CSAPP): Cache simulator creating from scratch in C and some Cache optimalizations
  - [ITE C++ Game](https://github.com/Szafter12/ITE-game): 2D top-down wave survival game as capstone of "Introduction to CS".
- - [RSZZ Limanowa](https://rszzlimanowa.pl): Webapp for local cooperative.
- - [RoboBoat 2026](https://roboboat.aghsolarboat.pl): The RoboBoat 2026 competition website.
- - [WorkIT](https://github.com/Szafter12/WorkIT): IT job advertising platform designed based on pracuj.pl created for learning purpose.
 
 ---
 
@@ -25,13 +22,10 @@ Tech stack:<br><br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
 ---
 
